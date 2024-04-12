@@ -30,6 +30,8 @@ Initial project setup for react project using vite package plugin to create fast
 - Search filter by name works seemlessly and loads searched results in UI
 - Search and paginations work well in sync and search results also load in batches and it fetch next batch data if present on scroll
 
+## screen recording of demo app
+https://vimeo.com/933610765/38952023a4?share=copy
 
 ## Folder structure explaination:
 ```
