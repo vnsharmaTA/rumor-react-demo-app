@@ -1,0 +1,11 @@
+node_modules
+public
+build
+vite.config.ts
+coverage/**
+src/assets/images/*
+src/assets/icons/*
+README.md
+newLandingPage/*
+.circleci
+polyfills.ts

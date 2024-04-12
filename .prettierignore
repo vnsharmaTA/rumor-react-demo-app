@@ -1,0 +1,13 @@
+build/
+node_modules/
+package-lock.json
+yarn.lock
+package.json
+coverage/**
+newLandingPage/*
+src/assets/images/*
+.circleci
+
+# Ignore all HTML files:
+*.html
+README.md
