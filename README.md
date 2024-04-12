@@ -1,4 +1,4 @@
-# Getting started with Rumor
+# Rumor - React Demo App
 
 ## Objective
 Initial project setup for react project using vite package plugin to create faster builds and easier development. It includes all the typescript rules in tsconfig.json and all ecmascript/javascript standards are enforced using eslint rules from .eslintrc. To make sure all best practises are followed husky hooks are used which runs before every commit is pushed by developer.
