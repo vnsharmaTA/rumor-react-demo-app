@@ -90,4 +90,4 @@ Initial project setup for react project using vite package plugin to create fast
 
 # Updates:
 
-### Fonts are a bit different than the figma since we weren't able to find the exact fonts on google cdn or via local file. So we have used a close match i.e Roboto, once we get zip file for fonts we can check it out
+**Fonts are a bit different than the figma since we weren't able to find the exact fonts on google cdn or via local file. So we have used a close match i.e Roboto, once we get zip file for fonts we can check it out**
