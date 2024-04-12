@@ -2,7 +2,7 @@
 
 Initial project setup for react project using vite package plugin to create faster builds and easier development. It includes all the typescript rules in tsconfig.json and all ecmascript/javascript standards are enforced using eslint rules from .eslintrc. To make sure all best practises are followed husky hooks are used which runs before every commit is pushed by developer.
 
-#### [Demo Video](https://vimeo.com/933610765/38952023a4?share=copy)
+#### [Demo Video](https://vimeo.com/933658525/5c4c11fdfc?share=copy)
 
 ### Technologies
 - React Js (18.2.0)
