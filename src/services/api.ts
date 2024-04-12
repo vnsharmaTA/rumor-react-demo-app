@@ -6,7 +6,7 @@ import { ITeamsApiResponse, IUpcomingEventResponse } from '../types';
 export const baseApi = createApi({
   reducerPath: 'baseApi',
   baseQuery: fetchBaseQuery({
-    baseUrl: 'https://661643a0b8b8e32ffc7ce2ea.mockapi.io/api/v1',
+    baseUrl: import.meta.env.VITE_MOCK_API_URL,
   }),
   endpoints: builder => ({
     getTeams: builder.query<
